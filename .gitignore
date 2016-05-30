@@ -33,6 +33,4 @@ sysinfo.txt
 *.png
 *.prefab
 *.tif
-*.mat
 *.asset
-*.shader
